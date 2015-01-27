@@ -2,7 +2,7 @@
 <?php
 
 // load module configuration
-$config = realpath(dirname(__FILE__) . '/code/etc/config.xml');
+$config = realpath(dirname(__FILE__) . '/src/app/code/community/IntegerNet/RemoveCustomerAccountLinks/etc/config.xml');
 $xml    = simplexml_load_file($config);
 
 // pull out name and version
