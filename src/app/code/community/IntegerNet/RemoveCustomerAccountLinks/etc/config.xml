@@ -15,6 +15,8 @@
     <modules>
         <IntegerNet_RemoveCustomerAccountLinks>
             <version>2.0.0.2</version>
+            <ashup
+                remote="https://s3.amazonaws.com/augustash/mage/IntegerNet_RemoveCustomerAccountLinks-latest.zip" />
         </IntegerNet_RemoveCustomerAccountLinks>
     </modules>
     <global>
